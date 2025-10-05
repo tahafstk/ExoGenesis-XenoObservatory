@@ -111,4 +111,4 @@ else:
 
 # --- 8. Footer ---
 st.markdown("---")
-st.caption("Hazırlayan: NASA Space Apps Bursa 2025 için AI destekli prototip. © Microsoft Copilot")
+st.caption
